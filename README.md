@@ -1,5 +1,5 @@
 # Flask-REST-API
-Utilizando esse repositório para adicionar minhas anotações e projetos com meu desenvolvimento de RET API com Flask
+Utilizando esse repositório para adicionar minhas anotações e projetos sobre meu aprendizado e desenvolvimento de REST-API com Flask
 
 ⚠️Atenção para possíveis erros de visualização!
 
